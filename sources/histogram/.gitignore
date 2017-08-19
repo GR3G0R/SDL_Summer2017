@@ -1,0 +1,6 @@
+# ignore output files
+*.txt
+# except Emma.txt for context
+!Emma.txt
+# ignore test files
+Test/
